@@ -177,13 +177,6 @@ View [CONTRIBUTING.md](CONTRIBUTING.md) to learn about the style guide, folder s
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## Acknowledgements
-
-- A big thank you to [David Bock](https://dkbock.com/) for logo design.
-
-## Author
-
-- [Tania Rascia](https://www.taniarascia.com)
 
 ## License
 
